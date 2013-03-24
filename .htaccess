@@ -10,4 +10,4 @@ ErrorDocument 504 /errors.php
 
 Options +FollowSymLinks
 RewriteEngine on
-RedirectMatch 301 ^/$ http://clearleft.com
+RedirectMatch 301 ^/$ http://joshemerson.co.uk
